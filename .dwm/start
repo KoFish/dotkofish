@@ -21,9 +21,9 @@ DWM_LOG="${HOME}/.dwm/dwm.${DISPLAY:1}.log"
  #keynav || notify-send "Keynav failed" "Something happened and keynav crashed" ) &
 
 
- ( sleep 30s && exec $HOME/.dwm/dzenconky.sh & ) &
- ( sleep 30s && exec parcellite & ) &
- ( sleep 30s && exec $HOME/.dwm/background_switcher.sh & ) &
+ ( sleep 30s && exec $HOME/.dwm/dzenconky.sh & )
+ ( sleep 30s && exec parcellite & )
+ ( sleep 30s && exec $HOME/.dwm/background_switcher.sh & )
  #( exec $HOME/.bin/rnotification start autossh & ) &
 
 exec /usr/bin/dwm $@ >> ${DWM_LOG} 2>&1 
