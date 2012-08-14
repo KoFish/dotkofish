@@ -1,0 +1,25 @@
+#!/usr/bin/env python3
+# -*- mode: python -*-
+
+import os, random, glob, shlex
+from subprocess import Popen
+
+WP_PATH = os.environ.get("HOME") + "/Dropbox/Images/"
+WP_SETTER = "/usr/bin/feh --bg-fill"
+
+def main():
+    images = []
+    for root, dirs, files in os.walk(WP_PATH):
+        for f in files:
+            if f.endswith((".jpg", ".png", ".gif")):
+                images.append(os.path.join(root, f))
+    #random.choice(images)
+    args = WP_SETTER.split()
+    args.append(random.choice(images))
+    #os.execv(path, args)
+    print("Exec: " + ' '.join(args))
+    Popen(args)
+    
+
+if __name__ == "__main__":
+    main()
