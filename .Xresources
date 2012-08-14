@@ -1,22 +1,142 @@
-URxvt.depth:      32
-URxvt.background: rgba:0000/0000/0000/ffff
-URxvt.foreground: rgba:ff00/ff00/ff00/ffff
-URxvt*transparent: true
-URxvt*shading: 30
-URxvt*saveLines: 1200
-URxvt*font: xft:DejaVu Sans Mono:size=10:antialias=true:hinting=true:
-URxvt*scrollstyle: plain
-URxvt.perl-ext-common: default,clipboard,keyboard-select,selection,mark-yank-urls
-URxvt.keysym.M-Escape: perl:keyboard-select:activate
-URxvt.keysym.M-s:      perl:keyboard-select:search
-URxvt.urlLauncher:     /usr/bin/firefox
-URxvt.keysym.M-u:      perl:mark-yank-urls:activate_mark_mode
-URxvt.underlineURLs:   true
+URxvt.depth:			32
+!URxvt.background:		rgba:3f00/3f00/3f00/dddd
+!URxvt*shading:			20
+!URxvt*transparent:		true
+URxvt*saveLines:		12000
+!URxvt*foreground:		White
+URxvt*scrollstyle:		plain
+!URxvt.font:				-*-proggysquare-medium-r-normal-*-*-*-*-*-*-*-iso8859-1
+!URxvt.font:             xft:Terminus:pixelsize=12
+URxvt.font:             xft:DejaVu Sans Mono:autohint=true:size=12
+URxvt.boldFont:         xft:DejaVu Sans Mono:bold:autohint=true:size=12
+URxvt.italicFont:       xft:DejaVu Sans Mono:italic:autohint=true:size=12
+URxvt.boldItalicfont:   xft:DejaVu Sans Mono:bold:italic:autohint=true:size=12
+URxvt.perl-ext-common:  default,selection,mark-yank-urls,keyboard-select
+URxvt.urlLauncher:      /home/kofish/.bin/launch_browser
+URxvt.keysym.M-u:       perl:mark-yank-urls:activate_mark_mode
+URxvt.underlineURLs:    true
+URxvt.keysym.M-Escape:  perl:keyboard-select:activate
+URxvt.keysym.M-s:       perl:keyboard-select:search
+URxvt.mapAlert:         true
+URxvt.visualBell:       true
+URxvt.urgentOnBell:     true
+
 URxvt.tabbed.tabbar-fg: 2
 URxvt.tabbed.tabbar-bg: 0
-URxvt.tabbed.tab-fg: 3
-URxvt.tabbed.tab-bg: 0
+URxvt.tabbed.tab-fg:	3
+URxvt.tabbed.tab-bg:	0
 
-XTerm.color0: #000000
-XTerm.color2: #aece92
-XTerm.color3: #968a38
+! Xresources
+URxvt*background:	[85]#091013
+URxvt*foreground:	#ACB4BF
+!URxvt*cursorColor:	#335A80
+
+! fg/bg for Xorg apps
+!*background:	#CFCFD9
+!*foreground:	#1C2027
+
+! black
+*color0:	[95]#091013
+*color8:	#666666
+! red
+*color1:	#B63A4E
+*color9:	#F06778
+! green
+*color2:	#48A13B
+*color10:	#B3E744
+! yellow
+*color3:	#C28D22
+*color11:	#FDD64B
+! blue
+*color4:	#456CAA
+*color12:	#65C3F6
+! magenta
+*color5:	#8C5FAF
+*color13:	#E973FF
+! cyan
+*color6:	#359F9F
+*color14:	#80E6E8
+! white
+*color7:	#B7C5BC
+*color15:	#F0F0F0
+
+!URxvt*foreground:     #DDDDDD
+!URxvt*background:     [75]#151210
+!
+! Black
+!URxvt*color0:	#151517
+!URxvt*color8:	#554444
+! Red
+!URxvt*color1:	#ea6868
+!URxvt*color9:	#e05050
+! Green
+!URxvt*color2:	#5cb247
+!URxvt*color10:	#9ead72
+! Yellow/Brown
+!URxvt*color3:	#dbbb4b
+!URxvt*color11:	#dd7d33
+! Blue
+!URxvt*color4:	#4385ee
+!URxvt*color12:	#41a6be
+! Magenta
+!URxvt*color5:	#75507b
+!URxvt*color13:	#666690
+! Cyan
+!URxvt*color6:	#5E7175
+!URxvt*color14:	#107080
+! White
+!URxvt*color7:	#f2f2f2
+!URxvt*color15:	#e2e2e2
+
+!!black
+!URxvt*color0:         #000000
+!URxvt*color8:         #818383
+!!red
+!URxvt*color1:         #c23621
+!URxvt*color9:         #fc391f
+!!green
+!URxvt*color2:         #1a8419
+!URxvt*color10:        #31e722
+!!brown/yellow
+!URxvt*color3:         #adad27
+!URxvt*color11:        #eaec23
+!!blue
+!URxvt*color4:         #492ee1
+!URxvt*color12:        #5833ff
+!!magenta
+!URxvt*color5:         #d338d3
+!URxvt*color13:        #f935f8
+!!cyan
+!URxvt*color6:         #33bbc8
+!URxvt*color14:        #14f0f0
+!!white
+!URxvt*color7:         #cbcccd
+!URxvt*color15:        #e9ebeb
+
+!*foreground:     #222222
+!*background:     #fafafa
+!!black
+!URxvt*color0:         #4f4f4f
+!URxvt*color8:         #252525
+!!!red
+!URxvt*color1:         #950d0d
+!URxvt*color9:         #b82b2b
+!!!green
+!URxvt*color2:         #88be32
+!URxvt*color10:        #aff73e
+!!!yellow (orange)
+!URxvt*color3:         #ff7e00
+!URxvt*color11:        #fad43d
+!!!blue
+!URxvt*color4:         #324c80
+!URxvt*color12:        #2b4f98
+!!!magenta
+!URxvt*color5:         #706c9a
+!URxvt*color13:        #826ab1
+!!!cyan
+!URxvt*color6:         #92b19e
+!URxvt*color14:        #a1cdcd
+!!!white
+!URxvt*color7:         #dddddd
+!URxvt*color15:        #ffffff
+

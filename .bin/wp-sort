@@ -1,0 +1,19 @@
+#!/bin/bash
+
+DIR=~/.wallpapers
+
+IFS=$(echo -en "\n\b")
+
+list=`find ${DIR}/*.{gif,png,jpg,GIF,PNG,JPG} 2>/dev/null`
+
+for f in $list ; do
+    echo "Checking file \"$f\""
+    col=`python2 ~/.bin/mean_color.py "$f" --intensity` 
+    if [[ ${col} -gt "20" ]]; then
+        col_dir=${DIR}/light
+    else
+        col_dir=${DIR}/dark
+    fi
+    [[ -d $col_dir ]] || mkdir -p $col_dir
+    mv "$f" $col_dir && echo "Moved `basename $f` to color folder `basename ${col_dir}`"
+done
