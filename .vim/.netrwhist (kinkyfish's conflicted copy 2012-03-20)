@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kofish/.vim'
+let g:netrw_dirhist_2='/home/kofish/Dropbox/conf/.vim/bundle/vst/doc2'
+let g:netrw_dirhist_3='/home/kofish/Dropbox/Chalmers/Kandidatarbete/kandidat-work/krister'
+let g:netrw_dirhist_4='/home/kofish/Sources/kandidatarbete/guile'
+let g:netrw_dirhist_5='/home/kofish/Sources/kandidatarbete/guile/libguile'
+let g:netrw_dirhist_6='/home/kofish/Sources/kandidatarbete/guile/module'
+let g:netrw_dirhist_7='/home/kofish/Sources/kandidatarbete/guile/module/ice-9'
+let g:netrw_dirhist_8='/home/kofish/Sources/kandidatarbete/guile/module/ice-9/peg'
+let g:netrw_dirhist_9='scp://cui.kofish.org//home/kofish/Sources/kandidatarbete/guile/module/language/python3/'

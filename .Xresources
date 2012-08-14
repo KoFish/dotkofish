@@ -1,0 +1,22 @@
+URxvt.depth:      32
+URxvt.background: rgba:0000/0000/0000/ffff
+URxvt.foreground: rgba:ff00/ff00/ff00/ffff
+URxvt*transparent: true
+URxvt*shading: 30
+URxvt*saveLines: 1200
+URxvt*font: xft:DejaVu Sans Mono:size=10:antialias=true:hinting=true:
+URxvt*scrollstyle: plain
+URxvt.perl-ext-common: default,clipboard,keyboard-select,selection,mark-yank-urls
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+URxvt.keysym.M-s:      perl:keyboard-select:search
+URxvt.urlLauncher:     /usr/bin/firefox
+URxvt.keysym.M-u:      perl:mark-yank-urls:activate_mark_mode
+URxvt.underlineURLs:   true
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg: 3
+URxvt.tabbed.tab-bg: 0
+
+XTerm.color0: #000000
+XTerm.color2: #aece92
+XTerm.color3: #968a38
