@@ -1,0 +1,6 @@
+#!/bin/bash
+
+( sleep 2 && urxvt ) &
+( sleep 5s && ~/.bin/tv on ) &
+
+exec /usr/bin/dwm $@ >> ~/.dwm/dwm.${DISPLAY:1}.log 2>&1

@@ -1,0 +1,2204 @@
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: 	focus((void 0))@resource://dactyl-30hot9171/dom.jsm:828
+pentadactyl: 	focus([object Proxy])@resource://dactyl-content/dactyl.js:569
+pentadactyl: 	onFocus([object Event])@resource://dactyl-content/events.js:624
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/browser.js:195
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/browser.js:195
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/browser.js:195
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/browser.js:195
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/browser.js:195
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://dactyl-30hot9171/util.jsm :: trapErrors :: line 1508"  data: no]
+pentadactyl: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEditor.removeEditActionListener]"  nsresult: "0x80004005 (NS_ERRO...::
+pentadactyl: stack: 	reportError([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/util.jsm:1248
+pentadactyl: 	trapErrors(removeEditActionListener,[object XPCWrappedNative_NoHelper],[object O@resource://dactyl-30hot9171/util.jsm:1511
+pentadactyl: 	onBlur([object Event])@resource://dactyl-content/events.js:580
+pentadactyl: 	wrappedListener([object Event])@resource://dactyl-content/events.js:224
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+
+pentadactyl: TypeError: keywords is null
+pentadactyl: TypeError: keywords is null::
+pentadactyl: stack: 	search([object Object])@resource://dactyl-content/bookmarks.js:651
+pentadactyl: 	forkapply("search",0,[object Object],search,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	("search",0,[object Array])@resource://dactyl-30hot9171/completion.jsm:984
+pentadactyl: 	url([object Object])@resource://dactyl-30hot9171/completion.jsm:985
+pentadactyl: 	([object Object],[object Array])@resource://dactyl-content/tabs.js:859
+pentadactyl: 	ex([object Object])@resource://dactyl-30hot9171/commands.jsm:1469
+pentadactyl: 	forkapply("ex",0,[object Object],ex,[object Array])@resource://dactyl-30hot9171/completion.jsm:717
+pentadactyl: 	fork("ex",0,[object Object],"ex")@resource://dactyl-30hot9171/completion.jsm:704
+pentadactyl: 	CEM_complete([object Object])@resource://dactyl-content/commandline.js:445
+pentadactyl: 	complete(true,false)@resource://dactyl-content/commandline.js:1223
+pentadactyl: 	autocompleteTell(false)@resource://dactyl-content/commandline.js:1070
+pentadactyl: 	notify([object XPCWrappedNative_NoHelper])@resource://dactyl-30hot9171/base.jsm:1304
+pentadactyl: toString: function () String(error)
+

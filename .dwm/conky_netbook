@@ -1,0 +1,9 @@
+background no
+out_to_console yes
+update_interval 1.0
+total_run_times 0
+use_spacer right
+
+TEXT
+^pa(70)^fg()ROOT: ^fg(white)${fs_free /}/${fs_size /}^fg() HOME: ^fg(white)${fs_free /home}/${fs_size /home}^fg() ^p()^pa(350) ^fg(yellow)NET:^fg() ^fg(green)Up: ${upspeed wlan0}k/s^fg() ^fg(red)Down: ${downspeed wlan0}k/s^fg() ^pa(600)^fg(white)^r(2x10)^fg() Bat: ${battery_percent}% ^pa(670)^fg(white)^r(2x10)^fg() Load: $loadavg ^pa(800)^fg(white)^r(2x10)^fg() Up: $uptime ^pa(900)^fg(white)^r(2x10)^fg()
+
