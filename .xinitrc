@@ -9,6 +9,8 @@ fi
 
 if [ "xdwm" = "x"$1 ]; then
     exec ck-launch-session ~/.dwm/start
+elif [ "xsecondary" = "x"$1 ]; then
+    exec ck-launch-session ̈́/usr/bin/dwm
 elif [ "xtv" = "x"$1 ]; then
     exec ck-launch-session ~/.dwm/start-tv
 fi
