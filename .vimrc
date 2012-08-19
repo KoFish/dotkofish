@@ -1,7 +1,7 @@
 "" Globals
 set nocompatible
-set backupdir=./.backup,~/.backup,.,/tmp
-set directory=./.backup,~/.backup,.,/tmp
+set backupdir=~/.backup,./.backup,.,/tmp
+set directory=~/.backup,./.backup,.,/tmp
 call pathogen#infect()
 syntax enable
 set number
@@ -83,6 +83,6 @@ autocmd QuickFixCmdPost *grep* cwindow
 
 """ Lisp:
 
-au FileType scheme setlocal lispwords+=define*,define-class,define-method,let-values,lambda*,match,catch,with-throw-handler,syntax-rules
+au FileType scheme setlocal lispwords+=define*,define-class,define-method,let-values,lambda*,match,catch,with-throw-handler,syntax-rules,receive,define-syntax
 au FileType scheme setlocal lispwords-=if
 au FileType scheme setlocal foldmethod=manual
