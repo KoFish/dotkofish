@@ -1,6 +1,10 @@
 #!/bin/sh
 
 xrdb -merge ~/.Xresources
+LOCAL_XRDB=~/.Xresources.`hostname`
+if [ -f $LOCAL_XRDB ]; then
+    xrdb -merge $LOCAL_XRDB
+fi
 
 if [ -f $HOME/.Xmodmap ]; then
   setxkbmap -option terminate:ctrl_alt_bksp
