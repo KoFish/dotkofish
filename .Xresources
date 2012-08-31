@@ -7,10 +7,10 @@ URxvt*saveLines:		12000
 URxvt*scrollstyle:		plain
 !URxvt.font:				-*-proggysquare-medium-r-normal-*-*-*-*-*-*-*-iso8859-1
 !URxvt.font:             xft:Terminus:pixelsize=12
-URxvt.font:             xft:DejaVu Sans Mono:autohint=true:size=12
-URxvt.boldFont:         xft:DejaVu Sans Mono:bold:autohint=true:size=12
-URxvt.italicFont:       xft:DejaVu Sans Mono:italic:autohint=true:size=12
-URxvt.boldItalicfont:   xft:DejaVu Sans Mono:bold:italic:autohint=true:size=12
+URxvt.font:             xft:DejaVu Sans Mono for Powerline:autohint=true:size=12
+URxvt.boldFont:         xft:DejaVu Sans Mono for Powerline:bold:autohint=true:size=12
+URxvt.italicFont:       xft:DejaVu Sans Mono for Powerline:italic:autohint=true:size=12
+URxvt.boldItalicfont:   xft:DejaVu Sans Mono for Powerline:bold:italic:autohint=true:size=12
 URxvt.perl-ext-common:  default,selection,mark-yank-urls,keyboard-select
 URxvt.urlLauncher:      /home/kofish/.bin/launch_browser
 URxvt.keysym.M-u:       perl:mark-yank-urls:activate_mark_mode
