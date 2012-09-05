@@ -40,7 +40,7 @@ set smartcase
 "" Looks
 let g:Powerline_symbols = 'fancy'
 set background=dark
-colorscheme camo
+colorscheme Tomorrow-Night-Bright
 "colorscheme warm_grey
 set guioptions=acf
 set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 10
