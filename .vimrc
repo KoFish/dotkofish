@@ -43,10 +43,11 @@ if has('gui_running')
 else
   colorscheme carvedwood
 endif
+let g:Powerline_symbols = 'fancy'
 set background=dark
 "colorscheme warm_grey
 set guioptions=acf
-set guifont=Bitstream\ Vera\ Sans\ Mono\ 10
+set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 10
 set guicursor=a:blinkon0,i-ci:ver25-Cursor,r-cr:hor50-Cursor
 set cpoptions+=$
 set laststatus=2
