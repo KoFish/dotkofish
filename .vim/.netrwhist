@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/kofish/Source/goblin-camp/build/boost-build/goblin-camp'
 let g:netrw_dirhist_2='/home/kofish/Source/goblin-camp/build/boost-build'
 let g:netrw_dirhist_3='/home/kofish/Source/goblin-camp/build/boost-build/kernel'
@@ -8,3 +8,4 @@ let g:netrw_dirhist_5='/usr/share/vim'
 let g:netrw_dirhist_6='/usr/share/vim/vim73/ftplugin'
 let g:netrw_dirhist_7='/home/kofish/.vim'
 let g:netrw_dirhist_8='/home/kofish/df_linux/data/init'
+let g:netrw_dirhist_9='/home/kofish/Source/TDDwithMockObjectsAndDesignPrinciples/TDDMicroExercises'

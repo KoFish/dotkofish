@@ -67,11 +67,11 @@ cflags   =  $(optflags) $(debugflags) $(warnflags)
 optflags = -O3
 debugflags = -ggdb
 warnflags = -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wimplicit-function-declaration
-CFLAGS   = -fPIC -march=x86-64 -mtune=generic -O2 -pipe -fstack-protector --param=ssp-buffer-size=4 -D_FORTIFY_SOURCE=2 -fPIC $(ARCH_FLAG)
+CFLAGS   = -fPIC -march=i686 -mtune=generic -O2 -pipe -fstack-protector --param=ssp-buffer-size=4 -D_FORTIFY_SOURCE=2 -fPIC $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir)
-DEFS     = 
+DEFS     = -D_FILE_OFFSET_BITS=64
 CPPFLAGS = -DHAVE_RUBY_H  $(DEFS) $(cppflags)
-CXXFLAGS = $(CFLAGS) -march=x86-64 -mtune=generic -O2 -pipe -fstack-protector --param=ssp-buffer-size=4 -D_FORTIFY_SOURCE=2
+CXXFLAGS = $(CFLAGS) -march=i686 -mtune=generic -O2 -pipe -fstack-protector --param=ssp-buffer-size=4 -D_FORTIFY_SOURCE=2
 ldflags  = -L. -Wl,-O1,--sort-common,--as-needed,-z,relro,--hash-style=gnu -rdynamic -Wl,-export-dynamic
 dldflags = 
 ARCH_FLAG = 
@@ -84,7 +84,7 @@ EXEEXT =
 RUBY_BASE_NAME = ruby
 RUBY_INSTALL_NAME = ruby
 RUBY_SO_NAME = ruby
-arch = x86_64-linux
+arch = i686-linux
 sitearch = $(arch)
 ruby_version = 1.9.1
 ruby = /usr/bin/ruby
@@ -115,8 +115,8 @@ extout_prefix =
 target_prefix = 
 LOCAL_LIBS = 
 LIBS = $(LIBRUBYARG_SHARED)  -lpthread -lrt -ldl -lcrypt -lm   -lc
-SRCS = matcher.c match.c ext.c
-OBJS = matcher.o match.o ext.o
+SRCS = matcher.c ext.c match.c
+OBJS = matcher.o ext.o match.o
 TARGET = ext
 DLLIB = $(TARGET).so
 EXTSTATIC = 
