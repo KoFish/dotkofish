@@ -38,8 +38,12 @@ set ignorecase
 set smartcase
 
 "" Looks
+if has('gui_running')
+  colorscheme camo
+else
+  colorscheme carvedwood
+endif
 set background=dark
-colorscheme camo
 "colorscheme warm_grey
 set guioptions=acf
 set guifont=Bitstream\ Vera\ Sans\ Mono\ 10

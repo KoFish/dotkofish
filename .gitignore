@@ -1,2 +1,5 @@
 .dwm/dwm.*.log
 .dwm/dwm.*.log.old
+*.log
+*.o
+*.so

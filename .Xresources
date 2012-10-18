@@ -26,39 +26,67 @@ URxvt.tabbed.tabbar-bg: 0
 URxvt.tabbed.tab-fg:	3
 URxvt.tabbed.tab-bg:	0
 
-! Xresources
-URxvt*background:	[85]#091013
-URxvt*foreground:	#ACB4BF
-!URxvt*cursorColor:	#335A80
-
 ! fg/bg for Xorg apps
-!*background:	#CFCFD9
-!*foreground:	#1C2027
+*background:	#CFCFD9
+*foreground:	#1C2027
 
-! black
-*color0:	[95]#091013
-*color8:	#666666
-! red
-*color1:	#B63A4E
-*color9:	#F06778
-! green
-*color2:	#48A13B
-*color10:	#B3E744
-! yellow
-*color3:	#C28D22
-*color11:	#FDD64B
-! blue
-*color4:	#456CAA
-*color12:	#65C3F6
-! magenta
-*color5:	#8C5FAF
-*color13:	#E973FF
-! cyan
-*color6:	#359F9F
-*color14:	#80E6E8
-! white
-*color7:	#B7C5BC
-*color15:	#F0F0F0
+URxvt.foreground:     rgb:dd/dd/dd
+URxvt.background:     rgb:22/22/22
+!black
+*color0:         rgb:19/19/19
+*color8:         rgb:25/25/25
+!red
+*color1:         rgb:80/32/32
+*color9:         rgb:98/2b/2b
+!green
+*color2:         rgb:5b/76/2f
+*color10:        rgb:89/b8/3f
+!brown/yellow
+*color3:         rgb:aa/99/43
+*color11:        rgb:ef/ef/60
+!blue
+*color4:         rgb:32/4c/80
+*color12:        rgb:2b/4f/98
+!magenta
+*color5:         rgb:70/6c/9a
+*color13:        rgb:82/6a/b1
+!cyan
+*color6:         rgb:92/b1/9e
+*color14:        rgb:a1/cd/cd
+!white
+*color7:         rgb:ff/ff/ff
+*color15:        rgb:dd/dd/dd
+!
+!! Xresources
+!URxvt*background:	[85]#091013
+!URxvt*foreground:	#ACB4BF
+!!URxvt*cursorColor:	#335A80
+!
+!
+!! black
+!*color0:	[95]#091013
+!*color8:	#666666
+!! red
+!*color1:	#B63A4E
+!*color9:	#F06778
+!! green
+!*color2:	#48A13B
+!*color10:	#B3E744
+!! yellow
+!*color3:	#C28D22
+!*color11:	#FDD64B
+!! blue
+!*color4:	#456CAA
+!*color12:	#65C3F6
+!! magenta
+!*color5:	#8C5FAF
+!*color13:	#E973FF
+!! cyan
+!*color6:	#359F9F
+!*color14:	#80E6E8
+!! white
+!*color7:	#B7C5BC
+!*color15:	#F0F0F0
 
 !URxvt*foreground:     #DDDDDD
 !URxvt*background:     [75]#151210
