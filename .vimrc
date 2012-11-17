@@ -17,6 +17,12 @@ nnoremap <leader>n :NERDTree<CR>
 "nnoremap <leader>g :GundoToggle<CR>
 "let g:gundo_close_on_revert = 1
 
+let g:ctrlp_cmd = "CtrlPMixed"
+let g:ctrlp_working_path_mode = 'ra'
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.o,*.la,*.pyc,*.png,*.jpg
+
+let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
+
 let g:SuperTabCompletionContexts = ['s:ContextText', 's:ContextDiscover']
 let g:SuperTabContextTextOmniPrecedence = ['&omnifunc', '&completefunc']
 let g:SuperTabRetainCompletionDuration = 'session'
@@ -51,7 +57,7 @@ set statusline=%F%m%r%h%w[%{&ff}]%{fugitive#statusline()}\ %=%y[POS=%3l,%3v][%3p
 set scrolloff=10
 set listchars=eol:$,tab:>-,trail:·,precedes:<,extends:>
 set textwidth=0
-set wrapmargin=2
+set wrapmargin=0
 set cc=+1
 hi ColorColumn ctermbg=grey guibg=#3f3f3f guifg=#afafaf
 hi Folded guifg=#707070 guibg=#1f1f1f
@@ -75,6 +81,9 @@ nnoremap ts :tab split
 nnoremap tc :tabclose
 nnoremap to :tabonly
 
+command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis | wincmd p | diffthis
+nnoremap <leader>dd :DiffOrig<CR>
+
 "" Useful autocommands
 autocmd VimEnter * RainbowParenthesesToggle
 "au Syntax * RainbowParenthesesLoadRound
@@ -82,8 +91,16 @@ autocmd QuickFixCmdPost *grep* cwindow
 
 "" Language specific stuff
 
+let NERDTreeIgnore = ['\.pyc$', '\.o$']
+
 """ Lisp:
 
 au FileType scheme setlocal lispwords+=define*,define-class,define-method,let-values,lambda*,match,catch,with-throw-handler,syntax-rules,receive,define-syntax
 au FileType scheme setlocal lispwords-=if
 au FileType scheme setlocal foldmethod=manual
+
+""" Python:
+
+au FileType python setlocal foldmethod=indent
+au FileType python setlocal foldlevel=99
+

@@ -5,7 +5,7 @@ if [ $1 == "on" ]; then
     xrandr --output DVI-I-1 --off
     xrandr --output TV-0 --auto
     vlc &
-    sleep 1s
+    sleep 5s
     xdotool search --classname "vlc" windowmove 25 73 windowsize 970 652
 else if [ $1 == "off" ]; then
     echo "Turn on secondary monitor instead!"

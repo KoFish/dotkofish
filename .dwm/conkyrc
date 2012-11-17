@@ -6,7 +6,8 @@ use_spacer none
 
 
 TEXT
-Eth0: ^fg(green)${upspeedf eth1}^fg()/^fg(red)${downspeedf eth0}^fg() \
+^fg(ffffff)${execi 3 t now}^fg() \
+| Eth0: ^fg(green)${upspeedf eth1}^fg()/^fg(red)${downspeedf eth0}^fg() \
 | Uptime: ${uptime short} \
 | ${hwmon temp 1}°C ${hwmon temp 2}°C \
 | ^fg(ff0000)Load: ${loadavg}^fg() \

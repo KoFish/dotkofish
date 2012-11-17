@@ -12,6 +12,7 @@ export PATH=${HOME}/.bin:$PATH
 alias ls='ls --color=auto'
 alias la='ls -a'
 alias l='ls -la'
+alias ll='ls -l'
 #PS1='[\u@\h \W]\$ '
 export PS1='\[\e[0;34m\]\u\[\e[m\] \[\e[1;35m\]\w\[\e[m\] \[\e[0;34m\]\[\e[0m\]$(parse_git_branch)\[\e[0;34m\]\$ \[\e[m\]\[\e[m\]'
 
