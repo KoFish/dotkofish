@@ -1,55 +1,3 @@
-!TomorrowNightBright
-#define t_background        #000000
-#define t_current_line      #2a2a2a
-#define t_selection      	#424242
-#define t_foreground      	#eaeaea
-#define t_comment	     	#969896
-#define t_red		     	#d54e53
-#define t_orange	     	#e78c45
-#define t_yellow        	#e7c547
-#define t_green	        	#b9ca4a
-#define t_aqua	        	#70c0b1
-#define t_blue	        	#7aa6da
-#define t_purple        	#c397d8
-
-
-*.foreground:   t_foreground
-*.background:   t_background
-*.cursorColor:  #aeafad
-
-! Black / Grey
-*.color0:       #000000
-*.color8:       #666666
-
-! Red / Bright Red
-*.color1:       t_red
-*.color9:       #FF3334
-
-! Green + Bright Green
-*.color2:       t_green
-*.color10:      #9ec400
-
-! Yellow (Orange) + Bright Yellow (Yellow)
-*.color3:       t_orange
-*.color11:      t_yellow
-
-! Blue + Bright Blue
-*.color4:       t_blue
-*.color12:      t_blue
-
-! Magenta (Purple) + Bright Magenta
-*.color5:       t_purple
-*.color13:      #b777e0
-
-! Cyan (Aqua) + Bright Cyan
-*.color6:       t_aqua
-*.color14:      #54ced6
-
-! Light Grey (Selection) + White (Current Line)
-*.color7:       t_selection
-*.color15:      t_current_line
-
-
 URxvt.depth:			32
 !URxvt.background:		rgba:3f00/3f00/3f00/dddd
 !URxvt*shading:			20
@@ -78,7 +26,38 @@ URxvt.tabbed.tabbar-bg: 0
 URxvt.tabbed.tab-fg:	3
 URxvt.tabbed.tab-bg:	0
 
-! Xresources
+! fg/bg for Xorg apps
+*background:	#CFCFD9
+*foreground:	#1C2027
+
+URxvt.foreground:     rgb:dd/dd/dd
+URxvt.background:     rgb:22/22/22
+!black
+*color0:         rgb:19/19/19
+*color8:         rgb:25/25/25
+!red
+*color1:         rgb:80/32/32
+*color9:         rgb:98/2b/2b
+!green
+*color2:         rgb:5b/76/2f
+*color10:        rgb:89/b8/3f
+!brown/yellow
+*color3:         rgb:aa/99/43
+*color11:        rgb:ef/ef/60
+!blue
+*color4:         rgb:32/4c/80
+*color12:        rgb:2b/4f/98
+!magenta
+*color5:         rgb:70/6c/9a
+*color13:        rgb:82/6a/b1
+!cyan
+*color6:         rgb:92/b1/9e
+*color14:        rgb:a1/cd/cd
+!white
+*color7:         rgb:ff/ff/ff
+*color15:        rgb:dd/dd/dd
+!
+!! Xresources
 !URxvt*background:	[85]#091013
 !URxvt*foreground:	#ACB4BF
 !URxvt*cursorColor:	#335A80

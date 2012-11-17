@@ -44,9 +44,13 @@ set ignorecase
 set smartcase
 
 "" Looks
+if has('gui_running')
+  colorscheme camo
+else
+  colorscheme carvedwood
+endif
 let g:Powerline_symbols = 'fancy'
 set background=dark
-colorscheme Tomorrow-Night-Bright
 "colorscheme warm_grey
 set guioptions=acf
 set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 10
