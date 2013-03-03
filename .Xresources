@@ -7,19 +7,31 @@ URxvt*saveLines:		12000
 URxvt*scrollstyle:		plain
 !URxvt.font:				-*-proggysquare-medium-r-normal-*-*-*-*-*-*-*-iso8859-1
 !URxvt.font:             xft:Terminus:pixelsize=12
-URxvt.font:             xft:DejaVu Sans Mono for Powerline:autohint=true:size=12
-URxvt.boldFont:         xft:DejaVu Sans Mono for Powerline:bold:autohint=true:size=12
-URxvt.italicFont:       xft:DejaVu Sans Mono for Powerline:italic:autohint=true:size=12
-URxvt.boldItalicfont:   xft:DejaVu Sans Mono for Powerline:bold:italic:autohint=true:size=12
-URxvt.perl-ext-common:  default,selection,mark-yank-urls,keyboard-select
-URxvt.urlLauncher:      /home/kofish/.bin/launch_browser
-URxvt.keysym.M-u:       perl:mark-yank-urls:activate_mark_mode
-URxvt.underlineURLs:    true
-URxvt.keysym.M-Escape:  perl:keyboard-select:activate
-URxvt.keysym.M-s:       perl:keyboard-select:search
-URxvt.mapAlert:         true
-URxvt.visualBell:       true
-URxvt.urgentOnBell:     true
+!URxvt.font:             xft:DejaVu Sans Mono for Powerline:autohint=true:size=12
+!URxvt.boldFont:         xft:DejaVu Sans Mono for Powerline:bold:autohint=true:size=12
+!URxvt.italicFont:       xft:DejaVu Sans Mono for Powerline:italic:autohint=true:size=12
+!URxvt.boldItalicfont:   xft:DejaVu Sans Mono for Powerline:bold:italic:autohint=true:size=12
+URxvt.font:             xft:Liberation Mono for Powerline:autohint=true:size=12
+URxvt.boldFont:         xft:Liberation Mono for Powerline:bold:autohint=true:size=12
+URxvt.italicFont:       xft:Liberation Mono for Powerline:italic:autohint=true:size=12
+URxvt.boldItalicfont:   xft:Liberation Mono for Powerline:bold:italic:autohint=true:size=12
+
+URxvt.perl-ext-common:      default,keyboard-select,url-select,clipboard
+URxvt.url-select.launcher:  /home/kofish/.bin/launch_browser
+URxvt.url-select.autocopy:  true
+URxvt.url-select.button:    2
+URxvt.url-select.underline: true
+URxvt.clipboard.copycmd:    parcellite
+URxvt.clipboard.pastecmd:    parcellite
+URxvt.keysym.M-u:           perl:url-select:select_next
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
+URxvt.keysym.M-c:           perl:clipboard:copy
+URxvt.keysym.M-v:           perl:clipboard:paste
+URxvt.keysym.M-C-v:         perl:clipboard:paste_escaped
+URxvt.mapAlert:             true
+URxvt.visualBell:           true
+URxvt.urgentOnBell:         true
 
 URxvt.tabbed.tabbar-fg: 2
 URxvt.tabbed.tabbar-bg: 0
@@ -30,32 +42,66 @@ URxvt.tabbed.tab-bg:	0
 *background:	#CFCFD9
 *foreground:	#1C2027
 
-URxvt.foreground:     rgb:dd/dd/dd
-URxvt.background:     rgb:22/22/22
-!black
-*color0:         rgb:19/19/19
-*color8:         rgb:25/25/25
-!red
-*color1:         rgb:80/32/32
-*color9:         rgb:98/2b/2b
-!green
-*color2:         rgb:5b/76/2f
-*color10:        rgb:89/b8/3f
-!brown/yellow
-*color3:         rgb:aa/99/43
-*color11:        rgb:ef/ef/60
-!blue
-*color4:         rgb:32/4c/80
-*color12:        rgb:2b/4f/98
-!magenta
-*color5:         rgb:70/6c/9a
-*color13:        rgb:82/6a/b1
-!cyan
-*color6:         rgb:92/b1/9e
-*color14:        rgb:a1/cd/cd
-!white
-*color7:         rgb:ff/ff/ff
-*color15:        rgb:dd/dd/dd
+URxvt.background: #000000
+URxvt.foreground: #ffffff
+! Black
+*color0:   #111111
+*color8:   #666666
+
+! Red
+*color1:   rgb:d3/62/65
+*color9:   rgb:ef/81/71
+
+! Green
+*color2:   #aece91
+*color10:  #cfefb3
+
+! Yellow
+*color3:   rgb:e7/e1/8c
+*color11:  rgb:ff/f7/96
+
+! Blue
+*color4:   #5297cf
+*color12:  #74b8ef
+
+! Magenta
+*color5:   #963c59
+*color13:  #b85e7b
+
+! Cyan
+*color6:   #5E7175
+*color14:  #A3BABF
+
+! White
+*color7:   #bebebe
+*color15:  #ffffff
+
+!URxvt.foreground:     rgb:dd/dd/dd
+!URxvt.background:     #000000
+!!black
+!*color0:         rgb:19/19/19
+!*color8:         rgb:25/25/25
+!!red
+!*color1:         rgb:80/32/32
+!*color9:         rgb:98/2b/2b
+!!green
+!*color2:         rgb:5b/76/2f
+!*color10:        rgb:89/b8/3f
+!!brown/yellow
+!*color3:         rgb:aa/99/43
+!*color11:        rgb:ef/ef/60
+!!blue
+!*color4:         rgb:32/4c/80
+!*color12:        rgb:2b/4f/98
+!!magenta
+!*color5:         rgb:70/6c/9a
+!*color13:        rgb:82/6a/b1
+!!cyan
+!*color6:         rgb:92/b1/9e
+!*color14:        rgb:a1/cd/cd
+!!white
+!*color7:         rgb:ff/ff/ff
+!*color15:        rgb:dd/dd/dd
 !
 !! Xresources
 !URxvt*background:	[85]#091013

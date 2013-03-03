@@ -1,1 +1,0 @@
-supertab.vmb: call delete('/home/kofish/.vim/bundle/supertab/doc/supertab.txt')|call delete('/home/kofish/.vim/bundle/supertab/plugin/supertab.vim')

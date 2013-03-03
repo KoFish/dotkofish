@@ -28,4 +28,6 @@ DWM_LOG="${HOME}/.dwm/dwm.${DISPLAY:1}.log"
  #( sleep 20s && exec redshift -c $HOME/.config/redshift.conf & ) &
  #( exec $HOME/.bin/rnotification start autossh & ) &
 
-exec /usr/bin/dwm $@ >> ${DWM_LOG} 2>&1 
+while true; do
+  exec /usr/local/bin/dwm $@ >> ${DWM_LOG} 2>&1 
+done
