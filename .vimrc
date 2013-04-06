@@ -25,6 +25,7 @@ Bundle 'mileszs/ack.vim'
 Bundle 'Shougo/neocomplcache'
 Bundle 'jacquesbh/vim-showmarks'
 Bundle 'jamessan/vim-gnupg'
+Bundle 'tristen/vim-sparkup.git'
 
 syntax enable
 filetype plugin indent on
@@ -62,6 +63,8 @@ let g:neocomplcache_enable_smart_case = 1
 let g:neocomplcache_enable_underbar_completion = 1
 
 let g:tagbar_compact = 1
+
+let g:sparkupExecuteMapping = '<c-o>'
 
 inoremap <expr><CR> neocomplcache#smart_close_popup() . "\<CR>"
 inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
@@ -114,10 +117,6 @@ hi FoldColumn ctermbg=black guifg=#707070 guibg=#1f1f1f
 
 """ Habit breakers
 inoremap <Esc> <nop>
-nnoremap hh <NOP>
-nnoremap jj <NOP>
-nnoremap kk <NOP>
-nnoremap ll <NOP>
 nnoremap <Up> <NOP>
 nnoremap <Down> <NOP>
 nnoremap <Left> <NOP>
