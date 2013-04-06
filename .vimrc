@@ -140,6 +140,7 @@ nnoremap ts :tab split
 nnoremap tc :tabclose
 nnoremap to :tabonly
 
+command W w !sudo tee % > /dev/null
 command DiffOrig vert new | set bt=nofile | r # | 0d_ | diffthis | wincmd p | diffthis
 nnoremap <leader>d :DiffOrig<CR>
 
