@@ -25,7 +25,9 @@ Bundle 'mileszs/ack.vim'
 Bundle 'Shougo/neocomplcache'
 Bundle 'jacquesbh/vim-showmarks'
 Bundle 'jamessan/vim-gnupg'
-Bundle 'tristen/vim-sparkup.git'
+Bundle 'tristen/vim-sparkup'
+Bundle 'digitaltoad/vim-jade'
+Bundle 'tomasr/molokai'
 
 syntax enable
 filetype plugin indent on
@@ -34,7 +36,7 @@ set number
 set hidden
 set encoding=utf-8
 set showcmd
-set visualbell
+set visualbell t_vb=
 let mapleader=","
 
 set backupdir=~/.backup,./.backup,/tmp
@@ -49,7 +51,8 @@ let g:EasyMotion_keys = 'abcdefghijklmnopqrstuvxyzABCDEFGHIJKLMNOPQRSTUVXYZ'
 let g:EasyMotion_grouping = 1
 let g:EasyMotion_leader_key = '<leader><leader>'
 
-let g:ctrlp_cmd = "CtrlP"
+let g:ctrlp_cmd = "CtrlPMRU"
+let g:ctrlp_extensions = []
 let g:ctrlp_working_path_mode = 'ra'
 let g:ctrlp_switch_buffer = 'e'
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.o,*.la,*.pyc,*.png,*.jpg
@@ -60,11 +63,12 @@ let NERDTreeIgnore = ['\.pyc$', '\.pyo$', '^\.git$', '\.o$']
 
 let g:neocomplcache_enable_at_startup = 1
 let g:neocomplcache_enable_smart_case = 1
-let g:neocomplcache_enable_underbar_completion = 1
+"let g:neocomplcache_enable_auto_close_preview = 1
 
 let g:tagbar_compact = 1
 
-let g:sparkupExecuteMapping = '<c-o>'
+let g:sparkupExecuteMapping = '<c-i>'
+let g:sparkupNextMapping = '<c-n>'
 
 inoremap <expr><CR> neocomplcache#smart_close_popup() . "\<CR>"
 inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
@@ -73,8 +77,9 @@ inoremap <expr><BS> neocomplcache#smart_close_popup()."\<C-h>"
 autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
 autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
 autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
-"autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
+autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
 autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
+set completeopt-=preview
 
 "" Whitspaces
 set nowrap autoindent
@@ -117,10 +122,12 @@ hi FoldColumn ctermbg=black guifg=#707070 guibg=#1f1f1f
 
 """ Habit breakers
 inoremap <Esc> <nop>
-nnoremap <Up> <NOP>
-nnoremap <Down> <NOP>
-nnoremap <Left> <NOP>
-nnoremap <Right> <NOP>
+nnoremap <Up> <C-y>
+nnoremap <Down> <C-e>
+nnoremap <Left> zh
+nnoremap <Right> zl
+nnoremap <S-Left> zH
+nnoremap <S-Right> zL
 
 inoremap jk <Esc>
 nmap j gj
@@ -129,8 +136,7 @@ nmap <C-j> :bnext<CR>
 nmap <C-k> :bprev<CR>
 nnoremap Y y$
 nnoremap <leader>cd :cd %:p:h<CR>:pwd<CR>
-nnoremap <silent>; :nohl<CR>
-nnoremap <leader>. .`[
+nnoremap <silent><leader>. :nohl<CR>
 nnoremap ` :ShowMarksOnce<CR>`
 nnoremap ' :ShowMarksOnce<CR>'
 nnoremap <silent> <Space> @=(foldlevel('.')?'zA':"\<Space>")<CR>
@@ -153,7 +159,7 @@ nmap <leader>w :setlocal wrap!<CR>:setlocal wrap?<CR>
 autocmd VimEnter * RainbowParenthesesToggle
 autocmd QuickFixCmdPost *grep* cwindow
 
-let g:syntastic_python_checker_args='--ignore=E501'
+let g:syntastic_python_flake8_post_args='--ignore=E501,E128,E225'
 
 let g:tagbar_type_go = {
     \ 'ctagstype' : 'go',
