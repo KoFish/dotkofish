@@ -1,0 +1,8 @@
+#!/bin/sh
+
+WORKSPACE=$1
+CURRENTWS=$(i3-msg -t get_workspaces | sed -e 's/.*\({[^}]\+"focused":true,\([^{}]\+\|{[^}]\+}\)\+[^}]\+}\).*/\1/g')
+echo $(getkey "${CURRENTWS}" "name")
+WS_NAME=$(getkey "${CURRENTWS}" "name")
+# i3-msg workspace ${WORKSPACE}a
+echo "NAME: ${WS_NAME}"

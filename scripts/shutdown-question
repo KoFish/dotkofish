@@ -1,0 +1,3 @@
+#!/bin/sh
+
+zenity --question --text "Do you want to shutdown?" --no-markup --no-wrap && shutdown -h now

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#exec firefox $@
+#exec nice -n18 opera-beta $@
+#exec nice -n18 chromium $@
+exec nice -n18 google-chrome-beta $@

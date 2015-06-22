@@ -11,10 +11,21 @@ URxvt*scrollstyle:		plain
 !URxvt.boldFont:         xft:DejaVu Sans Mono for Powerline:bold:autohint=true:size=12
 !URxvt.italicFont:       xft:DejaVu Sans Mono for Powerline:italic:autohint=true:size=12
 !URxvt.boldItalicfont:   xft:DejaVu Sans Mono for Powerline:bold:italic:autohint=true:size=12
-URxvt.font:             xft:Liberation Mono for Powerline:autohint=true:size=12
-URxvt.boldFont:         xft:Liberation Mono for Powerline:bold:autohint=true:size=12
-URxvt.italicFont:       xft:Liberation Mono for Powerline:italic:autohint=true:size=12
-URxvt.boldItalicfont:   xft:Liberation Mono for Powerline:bold:italic:autohint=true:size=12
+!
+!URxvt.font:             xft:Liberation Mono for Powerline:autohint=true:size=12
+!URxvt.boldFont:         xft:Liberation Mono for Powerline:bold:autohint=true:size=12
+!URxvt.italicFont:       xft:Liberation Mono for Powerline:italic:autohint=true:size=12
+!URxvt.boldItalicfont:   xft:Liberation Mono for Powerline:bold:italic:autohint=true:size=12
+
+!URxvt.font:             xft:Input Mono:autohint=true:size=12
+!URxvt.boldFont:         xft:Input Mono:bold:autohint=true:size=12
+!URxvt.italicFont:       xft:Input Mono:italic:autohint=true:size=12
+!URxvt.boldItalicfont:   xft:Input Mono:bold:italic:autohint=true:size=12
+
+URxvt.font:             xft:Input Mono:autohint=true:size=12
+URxvt.boldFont:         xft:Input Mono:bold:autohint=true:size=12
+URxvt.italicFont:       xft:Input Mono:italic:autohint=true:size=12
+URxvt.boldItalicfont:   xft:Input Mono:bold:italic:autohint=true:size=12
 
 URxvt.perl-ext-common:      default,keyboard-select,url-select,clipboard
 URxvt.url-select.launcher:  /home/kofish/.bin/launch_browser

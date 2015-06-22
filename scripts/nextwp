@@ -1,0 +1,14 @@
+#!/bin/sh
+
+SLEEPER="/tmp/bg-sleep-timer${DISPLAY:1}"
+
+if [ -e $SLEEPER ]; then
+  kill -9 `cat $SLEEPER`
+  if [ $? == 0 ]; then
+    echo "New background set"
+  else
+    echo "Could not kill the process"
+  fi
+else
+  echo "No bg-sleep-timer found"
+fi
