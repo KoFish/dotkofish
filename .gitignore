@@ -2,7 +2,7 @@
 .dwm/dwm.*.log.old
 .vim/bundle/*
 .vim/undo/*
-.old/
+.old*/
 *.log
 *.o
 *.so
