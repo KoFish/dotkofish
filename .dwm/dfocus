@@ -1,3 +1,0 @@
-#!/bin/sh
-
-wmctrl -a `wmctrl -l | sed -e 's/^0x[0-9a-f]*[ \t]*[0-9a-f]*[ \t]*[0-9a-z.]*[ \t]*\(.*\)/\1/' | dmenu -i`

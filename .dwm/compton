@@ -1,3 +1,0 @@
-#!/bin/bash
-
-exec compton -d $DISPLAY -D 7 -c -C -z -f -i 0.95

@@ -1,4 +1,0 @@
-#!/bin/sh
-
-#exec firefox $@
-exec nice -n18 chromium $@
