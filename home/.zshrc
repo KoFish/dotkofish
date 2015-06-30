@@ -1,8 +1,8 @@
 # Lines configured by zsh-newuser-install
-HISTFILE=~/.histfile
-HISTSIZE=1000
+HISTFILE=~/.zhistfile
+HISTSIZE=100000
 SAVEHIST=1000
-setopt appendhistory extendedglob
+setopt appendhistory extendedglob notify
 unsetopt autocd
 bindkey -e
 # End of lines configured by zsh-newuser-install
@@ -12,3 +12,5 @@ zstyle :compinstall filename '/home/kofish/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+alias vim=`which nvim`
