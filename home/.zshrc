@@ -14,3 +14,6 @@ compinit
 # End of lines added by compinstall
 
 alias vim=`which nvim`
+
+autoload edit-command-line; zle -N edit-command-line
+bindkey "^X^E" edit-command-line
