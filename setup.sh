@@ -8,22 +8,26 @@ HERE=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 TARGET="${HOME}"
 HOMESOURCE=${HERE}/home
 BACKUPDIR="${HERE}/.old"
+DIFFDIR="${HERE}/diff/`whoami`@`hostname`"
 
 source ${HERE}/utils.d/replace.sh
 
-if [ -d ${BACKUPDIR} ]; then
-  info "Backup old backup dir"
-  mv "${BACKUPDIR}" "${BACKUPDIR}-`date -I`"
+if [ -d "${BACKUPDIR}" ]; then
+  oldbackup="${BACKUPDIR}-`date -I`"
+  info "Backup old backup dir, ${oldbackup}"
+  mv -v "${BACKUPDIR}" "$oldbackup"
 fi
+
 mkdir -p ${BACKUPDIR}/
 mkdir -p ${TARGET}/
+mkdir -p ${DIFFDIR}/
 
 do_replace() {
-  replace "${HOMESOURCE}/$1" "${TARGET}/$1" "${BACKUPDIR}"
+  replace "${HOMESOURCE}/$1" "${TARGET}/$1" "${DIFFDIR}/$1" "${BACKUPDIR}"
 }
 
 do_install() {
-  replace "${HERE}/$1" "${TARGET}/$2" "${BACKUPDIR}"
+  replace "${HERE}/$1" "${TARGET}/$2" "${DIFFDIR}/$1" "${BACKUPDIR}"
 }
 
 #################################################
