@@ -57,8 +57,11 @@ create_patched_file() {
   fi
 
   if [ -e "$diff" ]; then
+		color_output
     patch -p1 "$new" "$diff" -o "$current"
-    if [ $? -ne 0 ]; then
+		local result=$?
+		reset
+    if [ $result -ne 0 ]; then
       warn "Could not apply diff!"
     else
       return 0
@@ -91,7 +94,7 @@ install_file() {
   local src=$1
   local target=$2
   local result=0
-  info "Install $(gray)${src}$(reset)"
+	info "Install $(gray)${target}$(reset) (source: $(gray)${src}$(reset))"
 
   color_output
   mkdir -p `dirname "${target}"`
@@ -99,64 +102,131 @@ install_file() {
 
   if [ -d "$src" ]; then
     err "Source is a directory, not handled yet"
-    result=1
+    result=3
   else
-    diff "$src" "$target" &> /dev/null
-    if [ $? -eq 1 ]; then
-      color_output
-      cp -v "$src" "$target"
-      result=$?
-      reset
-    else
-      info "Source and target file do not differ, no copying"
-    fi
+		local do_copy=1
+		if [ -e "$target" ]; then
+			diff "$src" "$target" &> /dev/null
+			if [ $? -eq 0 ]; then
+				warn "Source and target file do not differ, no copying"
+				do_copy=0
+			fi
+		fi
+		if [ "$do_copy" == 1 ]; then
+			color_output
+			cp -v "$src" "$target"
+			result=$?
+			reset
+			if [ $result -eq 0 ]; then
+				result=1
+			else
+				result=2
+			fi
+		fi
   fi
   return $result
 }
 
 # replace from_file, to_file, diff_file, backup_dir
 replace() {
-  local fromdir=`dirname $1`
-  local fromfile=`basename $1`
-  local todir=`dirname $2`
-  local tofile=`basename $2`
-  local diffdir=`dirname $3`
-  local difffile=`basename $3`
-  local backupdir=$4
-  local srcpath=${fromdir}/${fromfile}
-  local targetpath=${todir}/${tofile}
-  local diffpath=${diffdir}/${difffile}
-  local backuppath=${backupdir}/${fromfile}
-  local tmppath="$TMPDIR/$tofile"
-  local result=0
+	## Source file - The up to date file
+	local srcpath="$1"
+	local srcfile=`basename "$1"`
+	## Current file - The one we currently have installed
+	local curpath="$2"
+	local curfile=`basename "$2"`
+	## Diff file - Where the diff file should exist
+  local diffpath="$3"
+	## Backup dir - Where we should store the backup
+  local backupdir="$4"
+
+	local create_diff="$5"
+	local clobber="$6"
+
+	#info "srcpath=${srcpath}"
+	#info "srcfile=${srcfile}"
+	#info "curpath=${curpath}"
+	#info "curfile=${curfile}"
+	#info "diffpath=${diffpath}"
+	#info "backupdir=${backupdir}"
+	#info "create_diff=${create_diff}"
+	#info "clobber=${clobber}"
+	#return -2
+
+	if [ ! -z "$backupdir" ]; then
+		local backuppath="$4"/${srcfile}
+	else
+		# backupdir isn't set so we do not back this up
+		if [ "$create_diff" -ne 1 ]; then
+			warn "Intentionally not backing up $(gray)${curpath}$(reset)"
+		fi
+		local backuppath=
+	fi
+
+  local tmppath="$TMPDIR/$curfile"
+  local result=0  # Return variable
+
   if [ -e "$tmppath" ]; then
     warn "Remove old temp file $(gray)${tmppath}$(reset)"
     color_output
     rm -v "$tmppath"
     reset
   fi
+
+
+	if [ -e "$curpath" -a "$clobber" != 1 ]; then
+		if [ "$create_diff" != 1 ]; then
+			err "Target file $(gray)${curpath}$(reset) already exists, aborting"
+			return 5
+		fi
+	fi
+
   if [ ! -e "$srcpath" ]; then
-    warn "Source $(gray)${fromfile}$(reset) does not exist"
+    warn "Source $(gray)${srcfile}$(reset) does not exist"
     return 0
   fi
-  create_patched_file "$srcpath" "$diffpath" "$tmppath"
-  result=$?
-  local newsrc="$srcpath"
-  if [ $result -eq 0 -a -e "$tmppath" ]; then
-    newsrc="$tmppath"
-  elif [ $result -gt 1 ]; then
-    return 3
-  fi
-  replace_symlink "$targetpath" 
-  backup_target_file "$newsrc" "$targetpath" "$backuppath"
 
-  install_file "$newsrc" "$targetpath" "$backuppath"
+	local newsrc="$srcpath"
+	if [ "$create_diff" == 1 ]; then
+		if [ -e "$diffpath" -a "$clobber" != 1 ]; then
+			err "Could not generate new diff, old diff already exists"
+			return 5
+		fi
+		if [ -e "$curpath" ]; then
+			create_patch_file "$srcpath" "$curpath" "$diffpath"
+			result=$?
+			if [ $result -eq 0 ]; then
+				info "Created new diff file $(gray)${diffpath}$(reset)"
+			elif [ $result -eq 2 ]; then
+				return 4
+			fi
+		fi
+		return 0
+  elif [ -e "$diffpath" ]; then
+		create_patched_file "$srcpath" "$diffpath" "$tmppath"
+		result=$?
+		if [ $result -eq 0 -a -e "$tmppath" ]; then
+			newsrc="$tmppath"
+		elif [ $result -gt 1 ]; then
+			return 3
+		fi
+	fi
+	replace_symlink "$curpath"
+
+	if [ ! -z "$backuppath" ]; then
+		backup_target_file "$newsrc" "$curpath" "$backuppath"
+	fi
+
+  install_file "$newsrc" "$curpath" "$backuppath"
   result=$?
 
   if [ $result -eq 0 ]; then
+		## Did nothing
+		warn "Did not install file"
+	elif [ $result -eq 1 ]; then
     info "File successfully installed, $(gray)${target}$(reset)"
   else
-    warn "Could not install file" 
+    warn "Could not install file"
   fi
   return $result
 }
