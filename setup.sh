@@ -53,3 +53,5 @@ if [ $(dir_count "$BACKUPDIR") -eq "0" ]; then
   # Remove backup dir if it's empty
   rmdir "$BACKUPDIR"
 fi
+
+# vim: ts=2 sw=2

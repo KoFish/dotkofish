@@ -161,3 +161,4 @@ replace() {
   return $result
 }
 
+# vim: ts=2 sw=2

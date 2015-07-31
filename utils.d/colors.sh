@@ -24,3 +24,4 @@ reset() {
   echo -ne "\033[0m"
 }
 
+# vim: ts=2 sw=2

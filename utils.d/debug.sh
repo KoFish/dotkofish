@@ -19,3 +19,4 @@ color_output() {
   echo -ne "\033[3;36m"
 }
 
+# vim: ts=2 sw=2
