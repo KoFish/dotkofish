@@ -16,15 +16,19 @@ dir_count() {
   echo $(ls -A "$1/" | wc -l)
 }
 
-if [ -d "${BACKUPDIR}" -a $(dir_count "$BACKUPDIR") -ne "0" ]; then
-  oldbackup="${BACKUPDIR}-`date -I`"
-  info "Backup old backup dir, ${oldbackup}"
-  mv -v "${BACKUPDIR}" "$oldbackup"
+if [ -d "${BACKUPDIR}" ]; then
+  if [ $(dir_count "$BACKUPDIR") -ne "0" ]; then
+    oldbackup="${BACKUPDIR}-`date -I`"
+    info "Backup old backup dir, ${oldbackup}"
+    mv -v "${BACKUPDIR}" "$oldbackup"
+  fi
 fi
 
+color_output
 mkdir -p ${BACKUPDIR}/
 mkdir -p ${TARGET}/
 mkdir -p ${DIFFDIR}/
+reset
 
 do_replace() {
   replace "${HOMESOURCE}/$1" "${TARGET}/$1" "${DIFFDIR}/$1" "${BACKUPDIR}"
@@ -46,5 +50,6 @@ do_replace ".config/i3status"
 do_install "scripts" ".bin"
 
 if [ $(dir_count "$BACKUPDIR") -eq "0" ]; then
+  # Remove backup dir if it's empty
   rmdir "$BACKUPDIR"
 fi
