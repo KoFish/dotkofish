@@ -18,6 +18,9 @@ endif
 
 filetype plugin indent on
 
+set backupdir='./.backup,~/.nvim/backup,/tmp'
+set directory='./.swap,~/.nvim/swap,/tmp'
+
 set autoread
 
 tnoremap <C-j><C-k> <C-\><C-n>

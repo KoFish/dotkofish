@@ -13,7 +13,13 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+start_nvim_with_session() {
+	if [ -e "Session.vim" ]; then `which nvim` -S Session.vim;
+	else `which nvim` -c ":Obsession"; fi
+}
+
 alias vim=`which nvim`
+alias svim=start_nvim_with_session
 
 autoload edit-command-line; zle -N edit-command-line
 bindkey "^X^E" edit-command-line
