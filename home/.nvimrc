@@ -117,9 +117,9 @@ endif
 "" Setting for nerdtree (and nerdtree-tabs)
 """""""""""""""""""""""""""""""""""""""""""
 
-nnoremap <Leader>n <plug>NERDTreeTabsToggle<CR>
-nnoremap <Leader>N <plug>NERDTreeCWD<CR>
-nnoremap <Leader>cn <plug>NERDTreeFind<CR>
+nnoremap <Leader>n :NERDTreeTabsToggle<CR>
+nnoremap <Leader>N :NERDTreeCWD<CR>
+nnoremap <Leader>cn :NERDTreeFind<CR>
 
 let NERDTreeRespectWildIgnore = 1
 
@@ -135,7 +135,7 @@ let g:airline_right_sep = ' '
 "" Setting for CtrlP
 """"""""""""""""""""
 
-nnoremap <Leader>p <plug>CtrlPMRU<CR>
+nnoremap <Leader>p :CtrlPMRU<CR>
 
 let g:ctrlp_cmd = 'CtrlPMRU'
 let g:ctrlp_by_filename = 1
