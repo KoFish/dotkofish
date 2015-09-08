@@ -1,0 +1,15 @@
+--- /home/kofish/Sources/userconfsh/repos/kofish/home/.gitconfig	2015-09-08 16:20:50.556913030 +0200
++++ /home/kofish/.gitconfig	2015-08-17 15:00:59.925765541 +0200
+@@ -1,5 +1,5 @@
+ [user]
+-	email = krister.svanlund@gmail.com
++	email = krister.svanlund@textalk.se
+ 	name = Krister Svanlund
+ [push]
+ 	default = simple
+@@ -8,3 +8,5 @@
+ 	lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
+ 	lg = !"git lg1"
+ 	wdiff = diff --word-diff
++[http]
++	sslVerify = false
