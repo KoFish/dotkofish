@@ -13,13 +13,47 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-start_nvim_with_session() {
-	if [ -e "Session.vim" ]; then `which nvim` -S Session.vim;
-	else `which nvim` -c ":Obsession"; fi
+alias vim=`which nvim`
+
+session-vim() {
+	if [ -f "Session.vim" ]; then
+		`which nvim` -S Session.vim
+	else
+		`which nvim` -c ":Obsession"
+	fi
 }
 
-alias vim=`which nvim`
-alias svim=start_nvim_with_session
+alias svim=session-vim
 
 autoload edit-command-line; zle -N edit-command-line
 bindkey "^X^E" edit-command-line
+
+tig-status() {
+	BUFFER="tig status"
+	zle accept-line
+}
+
+zle -N tig-status
+
+bindkey "^Gs" tig-status
+
+## Helper functions
+###################
+cdResetPrompt() { zle reset-prompt; echo; ls; echo; }
+cdPushKey() { pushd "$1" > /dev/null; cdResetPrompt; }
+cdPopKey() { popd > /dev/null; popd > /dev/null; cdResetPrompt; }
+
+## Keybinding functions
+#######################
+
+cdUndoKey() { cdPopKey; }
+zle -N cdUndoKey
+bindkey '^[[1;3D' cdUndoKey
+
+cdParentKey() { cdPushKey ".."; }
+zle -N cdParentKey
+bindkey '^[[1;3A' cdParentKey
+
+cdHomeKey() { cdPushKey "$HOME"; }
+zle -N cdHomeKey
+bindkey '^[[1;3B' cdHomeKey

@@ -18,15 +18,12 @@ endif
 
 filetype plugin indent on
 
-set backupdir='./.backup,~/.nvim/backup,/tmp'
-set directory='./.swap,~/.nvim/swap,/tmp'
-
 set autoread
 
 tnoremap <C-j><C-k> <C-\><C-n>
 nnoremap <Leader>bn :bnext<CR>
 nnoremap <Leader>bp :bprevious<CR>
-nnoremap <Leader>bd :bdelete<CR>
+nnoremap <Leader>bd :Bdelete<CR>
 nnoremap <Leader>bb :buffers<CR>
 
 nnoremap <Leader>tc :tabnew<CR>
@@ -36,8 +33,23 @@ nnoremap <Leader>td :tabclose<CR>
 
 nnoremap <Leader>. :set list!<CR>
 nnoremap <Leader>, :nohlsearch<CR>
+nnoremap <Leader>/ /<C-R><C-W><CR>
+
+vnoremap // "0y/<C-R>0<CR>
+
+nnoremap n nzz
+nnoremap N Nzz
+nnoremap <C-o> <C-o>zz
+nnoremap <C-i> <C-i>zz
+
+inoremap <C-O> <ESC>O
+
+vnoremap // y/<C-R>"<CR>
 
 set textwidth=80
+
+set backupdir=./.backup,~/.nvim/backup,/tmp
+set directory=./.swap,~/.nvim/swap,/tmp
 
 "" Setup vim-plug
 
@@ -94,16 +106,38 @@ Plug 'ervandew/supertab'
 
 Plug 'airblade/vim-gitgutter'
 
-Plug 'jimenezrick/vimerl'
+"Plug 'jimenezrick/vimerl'
 
-Plug 'edkolev/erlang-motions.vim'
+"Plug 'edkolev/erlang-motions.vim'
 
-Plug 'tomasr/molokai'
+Plug 'vim-erlang/vim-erlang-runtime'
+Plug 'vim-erlang/vim-erlang-compiler'
+Plug 'vim-erlang/vim-erlang-omnicomplete'
+Plug 'vim-erlang/erlang-motions.vim'
+
+"Plug 'ppikula/vim-wrangler'
+
+Plug 'Lokaltog/vim-distinguished'
+
+"Plug 'tomasr/molokai'
+
+"Plug 'erezsh/erezvim'
+"colorscheme erez
+"Plug 'jdkanani/vim-material-theme'
+"colorscheme material-theme
+"Plug 'fxn/vim-monochrome'
+"Plug 'fholgado/minibufexpl.vim' " Buffer navigation
+
+Plug 'rking/ag.vim'        " Using the_silver_searcher for searching in projects
+
+Plug 'moll/vim-bbye'       " Delete buffers in a good way
+" :Bdelete - Deletes buffer without killing vim
 
 call plug#end()
 
 let g:rehash256 = 1
 colorscheme molokai
+"colorscheme distinguished
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -113,7 +147,7 @@ colorscheme molokai
 nnoremap <Leader>u :UndotreeToggle<CR>
 
 if has("persistent_undo")
-    set undodir='~/.undodir/'
+    set undodir='~/.nvim/undodir/'
     set undofile
 endif
 
@@ -121,10 +155,11 @@ endif
 """""""""""""""""""""""""""""""""""""""""""
 
 nnoremap <Leader>n :NERDTreeTabsToggle<CR>
-nnoremap <Leader>N :NERDTreeCWD<CR>
-nnoremap <Leader>cn :NERDTreeFind<CR>
+nnoremap <Leader>Nc :NERDTreeCWD<CR>
+nnoremap <Leader>Nf :NERDTreeFind<CR>
 
 let NERDTreeRespectWildIgnore = 1
+set wildignore+=*.beam
 
 "" Setting for airline
 """"""""""""""""""""""
@@ -179,5 +214,18 @@ if has("autocmd")
     autocmd BufRead,BufNewFile *.erl set shiftwidth=4
     autocmd BufRead,BufNewFile *.erl set textwidth=100
   augroup END
+  autocmd FileType erlang let b:surround_60 = "<<\r>>"
 endif
 
+""" Setting vim-wrangler
+""""""""""""""""""""""""
+"
+"let g:erlangWranglerPath = '/usr/lib/erlang/lib/wrangler-1.1.01'
+"
+"autocmd FileType erlang vnoremap <leader>ee :WranglerExtractFunction<ENTER>
+"autocmd FileType erlang nnoremap <leader>em :WranglerRenameModule<ENTER>
+"autocmd FileType erlang nnoremap <leader>ef :WranglerRenameFunction<ENTER>
+"autocmd FileType erlang nnoremap <leader>ev :WranglerRenameVariable<ENTER>
+"autocmd FileType erlang nnoremap <leader>ep :WranglerRenameProcess<ENTER>
+"autocmd FileType erlang nnoremap <leader>emv :WranglerMoveFunction<ENTER>
+"autocmd FileType erlang nnoremap <leader>eu :WranglerUndo<ENTER>
