@@ -6,6 +6,7 @@ let mapleader = ","
 imap jk <ESC>
 set listchars=eol:¬,tab:>-,trail:·,extends:>,precedes:<
 set number
+set relativenumber
 set smartcase
 set colorcolumn=+0
 set hidden
@@ -36,6 +37,8 @@ nnoremap <Leader>, :nohlsearch<CR>
 nnoremap <Leader>/ /<C-R><C-W><CR>
 
 vnoremap // "0y/<C-R>0<CR>
+
+nnoremap <C-n> :set invrelativenumber<CR>
 
 nnoremap n nzz
 nnoremap N Nzz
